@@ -1,0 +1,20 @@
+{
+  "name": "Dev",
+  "version": "1.0.0",
+  "description": "1. convert matches to teams\r 2. save teams to excel using excel4node\r 3. create folders and save pdf using pdf-lib",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^18.0.0",
+    "minimist": "^1.2.5",
+    "pdf-lib": "^1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
